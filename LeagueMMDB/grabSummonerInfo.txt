@@ -1,0 +1,9 @@
+{
+  "id": "pjJhdciEfJY9d_emM4zNmCgAC5FfEfqG0jz7y7XhhOdGmHY",
+  "accountId": "iJLgYQGPiWr_-Hb8V2fxftCAnT65Nu-6RmDyqUJ2EenYamU",
+  "puuid": "D5FKlwXZL82xBd0DPoEBnfKTZTb8eB_eDWY-w3nZTZmkMYY8EzYotFzbJyJmSskcVhD5muLtddfCcw",
+  "name": "xKanelen",
+  "profileIconId": 1151,
+  "revisionDate": 1712674817348,
+  "summonerLevel": 1069
+}
