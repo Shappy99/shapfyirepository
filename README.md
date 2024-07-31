@@ -6,10 +6,10 @@
  !->to finish > upload info into a DB for easier data manipulation and add a config file for easier set-up; currently under work<-!
  
  How to use?
- -log in using the Riot Games Developer account into the Riot Developer Portal and grab your latest Riot API token
- -replace the Riot API Token with your working current key in the .env
- -call getSummonerInfo(inGameName) to receive info about your account
- -call getSummonerGames(inGameName, numberOfGames) to receive the Game ID of the desired number of games
- -call grabGameInfo(gameID, ...) to store all the data about the given games into different files for further processing/statistics
- -run LeagueMMDB\main.py
- -enjoy the data!
+ 1. log in using the Riot Games Developer account into the Riot Developer Portal and grab your latest Riot API token
+ 2. replace the Riot API Token with your working current key in the .env
+ 3. call getSummonerInfo(inGameName) to receive info about your account
+ 4. call getSummonerGames(inGameName, numberOfGames) to receive the Game ID of the desired number of games
+ 5. call grabGameInfo(gameID, ...) to store all the data about the given games into different files for further processing/statistics
+ 6. run LeagueMMDB\main.py
+ 7. enjoy the data!
